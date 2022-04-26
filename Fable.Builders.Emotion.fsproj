@@ -5,7 +5,7 @@
         <Authors>uxsoft</Authors>
         <Description>Fable computation expression based bindings for the Emotion css-in-js library</Description>
         <PackageProjectUrl>https://github.com/uxsoft/Fable.Builders.Emotion</PackageProjectUrl>
-        <PackageIcon>icon.png</PackageIcon>
+        <PackageIcon>icon.webp</PackageIcon>
         <RepositoryUrl>https://github.com/uxsoft/Fable.Builders.Emotion</RepositoryUrl>
     </PropertyGroup>
 
